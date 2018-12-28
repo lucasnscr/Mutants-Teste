@@ -34,7 +34,7 @@ public class SwaggerConfig {
 				.apiInfo(apiInfo())
 				.directModelSubstitute(LocalDate.class, Date.class)
 				.select()
-				.apis(RequestHandlerSelectors.basePackage("resource"))
+				.apis(RequestHandlerSelectors.basePackage("com.mercadolivre"))
 				.paths(PathSelectors.any())
 				.build();
 	}

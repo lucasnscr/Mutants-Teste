@@ -14,7 +14,7 @@ import io.swagger.annotations.ApiOperation;
 import io.swagger.annotations.ApiResponse;
 import io.swagger.annotations.ApiResponses;
 
-@Api(tags="Teste - Mercado Livre")
+@Api(tags="Analise Mutante - Mercado Livre")
 @RestController
 public interface MutantsControllerr {
 	

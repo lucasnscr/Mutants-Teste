@@ -1,0 +1,4 @@
+com/mercadolivre/mutants/controller/test/MutantsControllerTest.class
+com/mercadolivre/mutants/service/impl/test/MutantsServiceImplTest.class
+com/mercadolivre/mutants/service/impl/test/StatsServiceImplTest.class
+com/mercadolivre/mutants/controller/test/StatsControllerTest.class
