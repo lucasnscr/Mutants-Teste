@@ -1,5 +1,5 @@
-FROM adoptopenjdk/openjdk11:latest
-ENV APP_FILE messagev1-1.0.0-SNAPSHOT.jar
+FROM openjdk:8-jre-alpine
+ENV APP_FILE mutants-0.0.1-SNAPSHOT.jar
 ENV APP_HOME /usr/app
 EXPOSE 8080
 COPY build/libs/*.jar $$APP_HOME
