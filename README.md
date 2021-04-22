@@ -1,6 +1,6 @@
 <p> 
   
- # Teste Mutantes - Mercado Livre
+ # Teste Mutantes
 
 Apresentação:
 O exercício a seguir consiste em uma API REST que poderá consultar e verificar se é DNA mutante ou humano.
